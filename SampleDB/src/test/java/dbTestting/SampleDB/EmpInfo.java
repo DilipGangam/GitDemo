@@ -30,6 +30,8 @@ public class EmpInfo {
 			driver.get("https://login.salesforce.com");
 			driver.findElement(By.xpath(".//*[@id='username']")).sendKeys(rs.getString("name"));
 			driver.findElement(By.xpath(".//*[@id='password']")).sendKeys(rs.getString("location"));
+			System.out.println("this my first code to commit to master");
+			System.out.println("try to get new job");
 
 		}
 
