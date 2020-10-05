@@ -37,6 +37,12 @@ public class EmpInfo {
 			System.out.println("this my first code to commit to branch");
 			System.out.println("need to get new job");
 			System.out.println("Need to big new salary");
+			
+			//commit for new branch
+			 
+			System.out.println("this my second code to commit to branch");
+			System.out.println("need to get new job");
+			System.out.println("Need to big new salary");
 		}
 
 }
